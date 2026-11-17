@@ -7,10 +7,9 @@ Aplicação desktop em **Java SE + Swing**, organizada na arquitetura **MVC**, p
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
+- Luan Paulo Verneque
+- Renan Alkmim Gama
+
 
 ## Funcionalidades
 
